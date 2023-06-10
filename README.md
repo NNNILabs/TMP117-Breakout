@@ -7,6 +7,7 @@ I wanted to be able to use the TMP117 for various projects without separately la
 The board is populated and connected to an external controller through the breakout pins/castellations. The TMP117 uses a 16-bit two's complement format. 
 ## List of Files
 - Hardware: Schematic and PCB KiCAD files, GERBER files
+![](https://github.com/NNNILabs/TMP117-Breakout/blob/main/Resources/Board%20-%20Front.PNG)
 - Software: Example code using Raspberry Pi Pico (PIO and hardware I2C)
 - Resources: 
 ## Application Examples
